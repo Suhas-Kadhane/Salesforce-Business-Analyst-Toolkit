@@ -1,4 +1,4 @@
-# # Functional Specification Document: Salesforce Cinema Management & Autonomous Engagement Platform (FilmClub)
+# Functional Specification Document: Salesforce Cinema Management & Autonomous Engagement Platform (FilmClub)
 
 ## Project Overview
 An end-to-end full-stack Salesforce CRM implementation designed to bridge business process automation with advanced AI capabilities. This system serves as a modern, consumer-grade movie membership application that unifies custom programmatic front-ends, secure REST integrations, complex declarative automation, and autonomous customer service management.
