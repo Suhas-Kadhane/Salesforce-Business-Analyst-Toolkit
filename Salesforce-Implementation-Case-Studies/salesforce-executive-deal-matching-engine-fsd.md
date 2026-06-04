@@ -27,6 +27,6 @@ The internal matching matrix evaluates candidates across three primary operation
 * **Salesforce Platform:** Advanced Record-Triggered Flows, Asynchronous Paths, Custom Metadata Types (CMDT)
 * **Programmatic:** Invokable Apex, Collection Processing, List Sorting Algorithms
 
-## 📈 Business Impact & Metrics
+## Business Impact & Metrics
 * **Eliminated Operational Latency:** Compressed the executive alignment lifecycle from a multi-day manual coordination loop down to an automated execution time of under two minutes.
 * **Enhanced Strategic Accuracy:** Guaranteed that 100% of high-margin corporate opportunities are structurally matched to the most qualified internal subject-matter specialists, protecting enterprise close rates.
