@@ -24,6 +24,6 @@ An executive enablement solution built on the Einstein 1 Platform designed to co
 * **AI Infrastructure:** Einstein Prompt Builder, Einstein Trust Layer, Secure LLM Gateway
 * **Salesforce UI:** Lightning App Builder, Dynamic Component Visibility, Opportunity Feed Optimization
 
-## 📈 Business Impact & Metrics
+## Business Impact & Metrics
 * **Saved Hours for Sales Leadership:** Saved sales directors an average of 4.5 hours per week in manual interaction review and meeting preparation activities.
 * **Mitigated Hidden Pipeline Bottlenecks:** Systematically surfaced hidden deal risks (e.g., stale communications or lack of executive-level access) well before end-of-quarter forecasting.
